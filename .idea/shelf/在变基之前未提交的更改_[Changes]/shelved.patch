@@ -1,0 +1,9 @@
+Index: 111.py
+===================================================================
+diff --git a/111.py b/111.py
+deleted file mode 100644
+--- a/111.py	(revision 7b843a51cb47a8b7d743c483167d8831d94a6f09)
++++ /dev/null	(revision 7b843a51cb47a8b7d743c483167d8831d94a6f09)
+@@ -1,1 +0,0 @@
+-print("hello world")
+\ No newline at end of file
